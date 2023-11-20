@@ -13,11 +13,11 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Aimer'),
+          title: Text('A.I.M.E.R'),
         ),
         body: Center(
           child: Text(
-            'Wellcome Back, Amamiya!!',
+            'A.I.M.E.R PROJECT!',
             style: TextStyle(fontSize: 25.0),
           ),
         ),
